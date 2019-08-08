@@ -37,7 +37,7 @@ SPOTIFY_SECRET=''
 
 2) There are 4 commands that can use used:
     
-    spotify-this: Search for an specific song and displays the artist, song name, preview link and the album from the song. example call: node liri.js spotify-this "old town road".
+    spotify-this-song: Search for an specific song and displays the artist, song name, preview link and the album from the song. example call: node liri.js spotify-this "old town road".
 
     concert-this: Search for concerts of an specific artist and displays detailed information from concerts (the place, the city and the date) if the artitst is on tour. example call: node liri.js  concert-this "metallica".
 
