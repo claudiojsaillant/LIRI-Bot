@@ -8,7 +8,7 @@ This app is organized in 4 files:
 
 1. keys.js: It takes the spotify authentication keys from a .env file.
 
-# Must be set up by the user before using the app
+### Must be set up by the user before using the app
 2. .env: this is where you are going to put your spotify keys in this format 
 
 SPOTIFY_ID=''
@@ -20,16 +20,14 @@ SPOTIFY_SECRET=''
 
 ## Technologies used
 
-#JavaScript
-#Node.js
+### JavaScript
+### Node.js
  Node Packages:
-    *npm
+    *npm 
     *moment.js
     *axios
     *spotify api
     *file system
-
-## Deployed link: 
 
 ## Instructions
 
